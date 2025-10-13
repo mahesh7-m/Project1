@@ -11,8 +11,8 @@ Try it out here → [N Queens Visualizer](https://nqueensvisualizer.vercel.app/)
 - Visualize the backtracking algorithm step-by-step
 - Watch queens being placed and removed dynamically
 - See how conflicts are detected on rows, columns, and diagonals
-- Display multiple solutions (if available)
-- Adjustable animation speed (if implemented)
+- Display multiple solutions
+- Adjustable animation speed
 - Clean and responsive UI
 
 ## 🧠 Tech Stack

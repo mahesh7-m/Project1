@@ -4,7 +4,7 @@ An interactive web app that visualizes the **N-Queens problem** using **backtrac
 You can watch how the algorithm places queens, detects conflicts, and backtracks to find all valid solutions for a given N.
 
 ## 🌐 Live Demo
-Try it out here → [N Queens Simulator](https://nqueensvisualizer.vercel.app/)
+Try it out here → [N Queens Simulator](https://nqueens-mahesh-mahajan.vercel.app/)
 
 ## ✨ Features
 - Choose board size (N)

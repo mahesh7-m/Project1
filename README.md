@@ -8,9 +8,7 @@ Try it out here → [N Queens Simulator](https://nqueens-mahesh-mahajan.vercel.a
 
 ## 🎥 Demo Video
 
-<video src="https://github.com/mahesh7-m/N-Queens-Visualizer/raw/main/nqueens.mp4" width="720" controls>
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/3c2bdd8f-bbb8-4747-bd3b-47822962dbca
 
 
 ## ✨ Features

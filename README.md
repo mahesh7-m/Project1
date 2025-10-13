@@ -8,7 +8,10 @@ Try it out here → [N Queens Simulator](https://nqueens-mahesh-mahajan.vercel.a
 
 ## 🎥 Demo Video
 
-https://github.com/mahesh7-m/N-Queens-Simulator/blob/main/nqueens.mp4
+<video src="https://github.com/mahesh7-m/N-Queens-Visualizer/raw/main/nqueens.mp4" width="720" controls>
+  Your browser does not support the video tag.
+</video>
+
 
 ## ✨ Features
 - Choose board size (N)

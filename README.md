@@ -6,6 +6,10 @@ You can watch how the algorithm places queens, detects conflicts, and backtracks
 ## 🌐 Live Demo
 Try it out here → [N Queens Simulator](https://nqueens-mahesh-mahajan.vercel.app/)
 
+## 🎥 Demo Video
+
+https://github.com/mahesh7-m/N-Queens-Simulator/assets/nqueens.mp4
+
 ## ✨ Features
 - Choose board size (N)
 - Visualize the backtracking algorithm step-by-step
